@@ -1,0 +1,7 @@
+build/
+.dart_tool/
+.packages
+venv/
+__pycache__/
+.env
+google-services.json
